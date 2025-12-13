@@ -19,6 +19,11 @@ public class Controle {
         return acao.save(cliente);
     }
 
+    @GetMapping("/")
+    public Iterable<Cliente> selecionar(){
+        return acao.findAll();
+    }
+
 //    @GetMapping("/")
 //    public String teste(){
 //        return "Hello World!";
