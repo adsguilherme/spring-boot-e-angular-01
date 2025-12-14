@@ -1,0 +1,13 @@
+UPDATE clientes SET nome = 'Julia Barbosa', cidade = 'Recife', idade = 83 WHERE codigo = 1;
+UPDATE clientes SET nome = 'Mariana Castro', cidade = 'Fortaleza', idade = 45 WHERE codigo = 2;
+UPDATE clientes SET nome = 'Lucas Ribeiro', cidade = 'Goiânia', idade = 27 WHERE codigo = 3;
+UPDATE clientes SET nome = 'Daniela Costa', cidade = 'Vitória', idade = 62 WHERE codigo = 4;
+UPDATE clientes SET nome = 'Gabriel Santos', cidade = 'Brasília', idade = 99 WHERE codigo = 5;
+UPDATE clientes SET nome = 'Carlos Mendes', cidade = 'Belo Horizonte', idade = 18 WHERE codigo = 6;
+UPDATE clientes SET nome = 'Fernanda Alves', cidade = 'Salvador', idade = 33 WHERE codigo = 7;
+UPDATE clientes SET nome = 'Bruno Lima', cidade = 'Porto Alegre', idade = 71 WHERE codigo = 8;
+UPDATE clientes SET nome = 'Nicolas Almeida', cidade = 'Curitiba', idade = 50 WHERE codigo = 9;
+UPDATE clientes SET nome = 'Igor Ferreira', cidade = 'Rio de Janeiro', idade = 8 WHERE codigo = 10;
+UPDATE clientes SET nome = 'Helena Pereira', cidade = 'Belém', idade = 76 WHERE codigo = 11;
+UPDATE clientes SET nome = 'Ana Souza', cidade = 'Manaus', idade = 91 WHERE codigo = 12;
+UPDATE clientes SET nome = 'Eduardo Rocha', cidade = 'São Paulo', idade = 2 WHERE codigo = 13;
